@@ -19,16 +19,16 @@ Keywords: Arctic Ocean, Canada Basin, Chukchi, crossover analysis, multibeam, EC
 
 Github Files:
 -------------
-Make the proper directory structure, prior to running example script;
-    x2sys_makedir.bash
+    Make the proper directory structure, prior to running example script;
+        x2sys_makedir.bash
 
-Main example script (performs the crossover analysis);
-    x2sys_example.bash
+    Main example script (performs the crossover analysis);
+        x2sys_example.bash
 
-Example lines;
-    Healy_HLY0602_1_NADIR.xyzt
-    Healy_HLY0602_2_NADIR.xyzt
-    Healy_HLY0602_3_NADIR.xyzt
-    Healy_HLY0602_4_NADIR.xyzt
-    Healy_HLY0602_5_NADIR.xyzt
+    Example lines;
+        Healy_HLY0602_1_NADIR.xyzt
+        Healy_HLY0602_2_NADIR.xyzt
+        Healy_HLY0602_3_NADIR.xyzt
+        Healy_HLY0602_4_NADIR.xyzt
+        Healy_HLY0602_5_NADIR.xyzt
 
