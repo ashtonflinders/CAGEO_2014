@@ -1,9 +1,6 @@
 Evaluation of Arctic Multibeam Sonar Data Quality using Nadir Crossover Error Analysis and Compilation of a Full-Resolution Data Product
 
-Ashton F. Flinders
-Larry A. Mayer
-Brian A. Calder
-Andrew A. Armstrong
+Ashton F. Flinders, Larry A. Mayer, Brian A. Calder, Andrew A. Armstrong
 
 Center for Coastal and Ocean Mapping - Joint Hydrographic Center
 University of New Hampshire
