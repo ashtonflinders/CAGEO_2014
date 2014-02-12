@@ -16,6 +16,9 @@ We document a new high-resolution multibeam bathymetry compilation for the Canad
 
 Keywords: Arctic Ocean, Canada Basin, Chukchi, crossover analysis, multibeam, ECS
 
+Readme:
+-------
+The included Github files give a working example of how to use the Generic Mapping Tools (GMT) x2sys subroutine to calculate the crossing errors for a set of extracted multibeam nadir lines.
 
 Github Files:
 -------------
